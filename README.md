@@ -1,5 +1,5 @@
 Для работы необходимо:  
-python 3.8
+python 3.8  
 Библиотеки: Flask, beautifulsoup4, requests, lxml  
 pip install Flask  
 pip install beautifulsoup4  
