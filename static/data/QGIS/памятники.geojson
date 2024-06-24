@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "памятники",
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "Название": "Зимний Дворец", "Открыт": 1917 }, "geometry": { "type": "Point", "coordinates": [ 3374515.004399, 8386489.342819 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Название": "Александрийская колонна", "Открыт": 1834 }, "geometry": { "type": "Point", "coordinates": [ 3374741.085395, 8386178.573903 ] } }
+]
+}

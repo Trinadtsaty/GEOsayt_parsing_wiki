@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "pamytniki2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Назва": "Александрийская колонна", "Фото": "1", "Год": 1834 }, "geometry": { "type": "Point", "coordinates": [ 3374740.962123, 8386178.080814 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Назва": "Зимний Дворец", "Фото": "2", "Год": 1764 }, "geometry": { "type": "Point", "coordinates": [ 3374620.155484, 8386342.772315 ] } }
+]
+}
